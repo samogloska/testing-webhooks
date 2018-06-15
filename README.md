@@ -11,3 +11,4 @@ Test 8 in new branch 2
 Test 9 in new branch 2
 Test 10 in new branch 2
 Test 11 in new branch 2
+Test 12 in new branch 2
