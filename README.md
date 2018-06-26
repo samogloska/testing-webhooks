@@ -7,3 +7,4 @@ Test 4 in new branch
 Test 5 in new branch
 Test 6 in new branch
 Test 7 in new branch
+Test 8 in new branch
